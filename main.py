@@ -8,3 +8,6 @@ def main(string):
 
 string = "you just lost the game."
 main(string)
+string = "nerd."
+time.sleep(1)
+main(string)
