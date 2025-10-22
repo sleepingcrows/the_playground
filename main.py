@@ -11,3 +11,5 @@ main(string)
 string = "nerd."
 time.sleep(1)
 main(string)
+time.sleep(1)
+main("now go program something already, you're boring me.")
