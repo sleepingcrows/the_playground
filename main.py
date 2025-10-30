@@ -6,11 +6,9 @@ def main(string):
     
     print('')
 
-string = "you just lost the game."
-main(string)
-string = "nerd."
+main("you just lost the game.")
 time.sleep(1)
-main(string)
+main("nerd")
 time.sleep(1)
 main("now go program something already, you're boring me.")
 time.sleep(10)
