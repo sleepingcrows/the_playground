@@ -16,3 +16,5 @@ main("still here?")
 time.sleep(1)
 main("man, like please. i'm begging you. go code something already.")
 main("I hear the internet loves when you can comment on things.")
+
+main("what you got there?")
